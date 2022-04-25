@@ -1,0 +1,29 @@
+.body_backgorund 
+{
+    background-image:url(vector-background-wallpaper-with-polygons-in-gradient-colors.webp);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+    
+    
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+
